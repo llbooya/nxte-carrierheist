@@ -1,7 +1,7 @@
 # nxte-carrierheist
  Free Open-Source Carrier Heist
 
-A Open Source FiveM yacht heist that is easy to adjust to your server with the Config.lua
+A Open Source FiveM heist that is easy to adjust to your server with the Config.lua
 
 PREVIEW : 
 
