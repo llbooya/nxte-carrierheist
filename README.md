@@ -7,6 +7,6 @@ PREVIEW :
 
 Dependency's:
 
-qb-core
-qb-target
-MiniGame : https://github.com/Prime-Script/prime-vangelico/tree/main/assets (`hacking` folder )
+- qb-core
+- qb-target
+- MiniGame : https://github.com/Prime-Script/prime-vangelico/tree/main/assets (`hacking` folder )
