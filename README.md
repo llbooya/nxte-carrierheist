@@ -5,7 +5,7 @@ A Open Source FiveM heist that is easy to adjust to your server with the Config.
 
 PREVIEW : 
 
-Dependency's:
+Dependency's: https://youtu.be/wYV4KsqpVos
 
 - qb-core
 - qb-target
